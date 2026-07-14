@@ -1,18 +1,17 @@
 # 🐍 Snake — nasze pierwsze prawdziwe programowanie
 
 Witaj! W tym repozytorium jest kod gry **Snake** napisany w Pythonie.
-Gra działa... ale ktoś ją mocno popsuł. 😈
-Twoim zadaniem jest ją naprawić — krok po kroku, według kartki z zadaniami.
+Gra działa... ale ktoś ją mocno popsuł. Twoim zadaniem jest ją naprawić - krok po kroku, według kartki z zadaniami.
 
 ## Co będzie potrzebne (instalujemy raz)
 
 ### 1. Python
-1. Wejdź na https://www.python.org/downloads/ i kliknij żółty przycisk **Download Python**.
+1. Pobierz Pythona tym [linkiem](https://www.python.org/ftp/python/3.14.6/python-3.14.6-amd64.exe)
 2. Uruchom pobrany plik.
 3. **WAŻNE:** na pierwszym ekranie zaznacz ptaszek **„Add python.exe to PATH"**, dopiero potem kliknij **Install Now**.
 
 ### 2. Visual Studio Code (nasz edytor kodu)
-1. Wejdź na https://code.visualstudio.com i kliknij niebieski przycisk **Download**.
+1. Pobierz tym [linkiem](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 2. Uruchom pobrany plik i klikaj **Dalej** aż do końca.
 
 ### 3. Pobranie gry (tego repozytorium)
